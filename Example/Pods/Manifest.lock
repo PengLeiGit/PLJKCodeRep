@@ -1,0 +1,16 @@
+PODS:
+  - PLCodeDemo (0.0.1)
+
+DEPENDENCIES:
+  - PLCodeDemo (from `../`)
+
+EXTERNAL SOURCES:
+  PLCodeDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLCodeDemo: 7ea9944d8b29caa2fcf35103f72ba92a9084af5e
+
+PODFILE CHECKSUM: 912cdde454d28da4c401a029db10b9bf1ab4e838
+
+COCOAPODS: 1.6.1

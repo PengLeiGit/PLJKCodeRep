@@ -1,0 +1,6 @@
+framework module Pods_PLCodeDemo_Example {
+  umbrella header "Pods-PLCodeDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

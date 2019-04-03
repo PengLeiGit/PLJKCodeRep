@@ -1,0 +1,23 @@
+{
+  "name": "PLCodeDemo",
+  "version": "0.0.1",
+  "summary": "测试私有库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PengLeiGit/PLJKCodeRep",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PengLeiGit": "1248667206@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/PengLeiGit/PLJKCodeRep.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PLCodeDemo/Classes/**/*",
+  "swift_version": "4.2"
+}

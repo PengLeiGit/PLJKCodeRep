@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PLCodeDemo_Example' do
+  pod 'PLCodeDemo', :path => '../'
+
+  target 'PLCodeDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

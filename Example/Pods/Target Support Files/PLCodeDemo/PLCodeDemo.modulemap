@@ -1,0 +1,6 @@
+framework module PLCodeDemo {
+  umbrella header "PLCodeDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
